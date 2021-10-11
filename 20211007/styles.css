@@ -9,6 +9,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     box-align : center;
 }
+
 div.card {
     width: 100%;
 }
@@ -30,16 +31,19 @@ label {
     width: 200px;
     /* text-align: center; */
 }
+
 .navbar-brand {
     font-size: 2rem;
     font-weight: bold;
 }
+
 hr {
     border: 2px;
     width: 50%;
     border-style: solid;
     margin: auto;
 }
+
 .btn.btn-secondary{
     margin-left: 200px;
 }
